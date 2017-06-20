@@ -1,1 +1,6 @@
 more awesome code!!
+
+
+function foo() {
+   console.log('foo');
+}
