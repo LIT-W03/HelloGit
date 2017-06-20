@@ -3,4 +3,5 @@ WOA!!!!!!
 public static void Main()
 {
 	Console.Write("WHATEVER!!!");
+	Console.WriteLine("Hello World");
 }
